@@ -2,6 +2,10 @@
 
 A comprehensive Flutter application designed to help users manage their medication schedules with timely notifications and reminders.
 
+**Note**: Some devices apply system-level battery optimization or background execution policies that may delay or block notifications. Allowing background activity improves reminder reliability.
+**Important**: These limitations are controlled by the operating system and are not related to the application logic.
+
+
 ## Project Overview
 
 Medicine Reminder is a cross-platform mobile application built with Flutter that allows users to:
