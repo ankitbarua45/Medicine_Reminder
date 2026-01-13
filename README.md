@@ -117,7 +117,7 @@ dev_dependencies:
 2. Add notification permissions
 3. Configure background modes for notifications
 
-## 📱 Usage
+## Usage
 
 ### Adding Medications
 1. Tap the floating action button (+) on the home screen
