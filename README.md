@@ -10,6 +10,11 @@ Medicine Reminder is a cross-platform mobile application built with Flutter that
 - Receive reliable notifications even when the app is in the background
 - Store medication data locally using Hive database
 - Enjoy a clean, intuitive Material Design 3 interface
+##  Screenshot
+<img width="709" height="1600" alt="image" src="https://github.com/user-attachments/assets/82bcb662-f039-442f-8fb0-a121ced5abe0" />
+
+<img width="709" height="1600" alt="image" src="https://github.com/user-attachments/assets/a3f813b9-fd66-4223-831b-79295e420136" />
+
 
 ##  Architecture
 
